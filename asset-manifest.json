@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0292443d.css",
+    "main.js": "/static/js/main.b2d89191.js",
+    "static/js/453.1d3e6e74.chunk.js": "/static/js/453.1d3e6e74.chunk.js",
+    "static/media/removebg-small.png": "/static/media/removebg-small.05cc5322edc08976399a.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.29b82c491a7f57c53281.png",
+    "static/media/redux.png": "/static/media/redux.53ce1c75eb90cc3210ed.png",
+    "static/media/mysql.png": "/static/media/mysql.2bcb05bf770ba5ed730d.png",
+    "static/media/express.png": "/static/media/express.9a19ecdb8d4e032141e2.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/sequelize.png": "/static/media/sequelize.d2457870e96e582b0181.png",
+    "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/student.jpg": "/static/media/student.37b98b9ab9c887a806a5.jpg",
+    "static/media/denis-cropped-logo4.png": "/static/media/denis-cropped-logo4.8769de7a43945bdef8c3.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/mongoose.png": "/static/media/mongoose.803ac701882269f82463.png",
+    "static/media/firebase.png": "/static/media/firebase.209703cedf1b1a96bc52.png",
+    "static/media/nextjs-.png": "/static/media/nextjs-.8b18a91ba1c75aac99ef.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/arrow-down.svg": "/static/media/arrow-down.ea283775bed3ebfd235e4534af7d3b0a.svg",
+    "index.html": "/index.html",
+    "main.0292443d.css.map": "/static/css/main.0292443d.css.map",
+    "main.b2d89191.js.map": "/static/js/main.b2d89191.js.map",
+    "453.1d3e6e74.chunk.js.map": "/static/js/453.1d3e6e74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0292443d.css",
+    "static/js/main.b2d89191.js"
+  ]
+}
