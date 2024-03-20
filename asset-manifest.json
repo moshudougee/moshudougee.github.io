@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.0292443d.css",
-    "main.js": "/static/js/main.af89a902.js",
-    "static/js/453.1d3e6e74.chunk.js": "/static/js/453.1d3e6e74.chunk.js",
+    "main.js": "/static/js/main.60c30ba3.js",
+    "static/js/453.e6fbfbf9.chunk.js": "/static/js/453.e6fbfbf9.chunk.js",
     "static/media/removebg-small.png": "/static/media/removebg-small.05cc5322edc08976399a.png",
+    "static/media/dembu-social.png": "/static/media/dembu-social.819954c8b83d918c9979.png",
     "static/media/bootstrap.png": "/static/media/bootstrap.29b82c491a7f57c53281.png",
     "static/media/redux.png": "/static/media/redux.53ce1c75eb90cc3210ed.png",
     "static/media/mysql.png": "/static/media/mysql.2bcb05bf770ba5ed730d.png",
@@ -25,11 +26,11 @@
     "static/media/arrow-down.svg": "/static/media/arrow-down.ea283775bed3ebfd235e4534af7d3b0a.svg",
     "index.html": "/index.html",
     "main.0292443d.css.map": "/static/css/main.0292443d.css.map",
-    "main.af89a902.js.map": "/static/js/main.af89a902.js.map",
-    "453.1d3e6e74.chunk.js.map": "/static/js/453.1d3e6e74.chunk.js.map"
+    "main.60c30ba3.js.map": "/static/js/main.60c30ba3.js.map",
+    "453.e6fbfbf9.chunk.js.map": "/static/js/453.e6fbfbf9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0292443d.css",
-    "static/js/main.af89a902.js"
+    "static/js/main.60c30ba3.js"
   ]
 }
